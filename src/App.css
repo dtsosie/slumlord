@@ -9,3 +9,11 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+
+.Level {
+  position: relative;
+}
+
+.LevelObject img {
+  position: absolute;
+}
